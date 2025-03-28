@@ -1,0 +1,397 @@
+{
+  "navigation": {
+    "about": "À propos",
+    "courses": "Cours",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "viewCourses": "Voir les cours"
+  },
+  "hero": {
+    "title": "Maîtrisez le Futur de",
+    "subtitle": "l'Intelligence Artificielle",
+    "description": "Rejoignez le Masterclass IA complet du Professeur Elias Voss et transformez votre carrière. Apprenez avec le principal chercheur et éducateur en IA de Suisse avec une expérience concrète.",
+    "cta": {
+      "primary": "Voir les cours",
+      "secondary": "En savoir plus"
+    },
+    "stats": {
+      "successRate": {
+        "title": "Taux de réussite",
+        "value": "98%",
+        "description": "Transition de carrière"
+      },
+      "students": {
+        "title": "Étudiants",
+        "value": "500+",
+        "description": "Dans le monde"
+      },
+      "experience": {
+        "title": "Industrie",
+        "value": "15+",
+        "description": "Ans d'expérience"
+      }
+    }
+  },
+  "about": {
+    "title": "Rencontrez le Professeur Elias Voss",
+    "subtitle": "Combler le fossé entre la théorie de l'IA et les applications pratiques grâce à une formation experte et une expérience industrielle",
+    "experience": "Expérience Industrielle",
+    "years": "15+ Ans",
+    "sections": {
+      "academic": {
+        "title": "Excellence Académique",
+        "description": "Doctorat en Intelligence Artificielle de l'EPFL Lausanne, spécialisé en apprentissage automatique et réseaux neuronaux."
+      },
+      "industry": {
+        "title": "Impact Industriel",
+        "description": "Ancien Chercheur Senior en IA et Consultant, aidant les entreprises à implémenter des solutions d'IA dans divers secteurs."
+      },
+      "teaching": {
+        "title": "Philosophie d'Enseignement",
+        "description": "Combine les fondements théoriques avec les applications pratiques, assurant aux étudiants une expertise réelle en IA."
+      },
+      "positions": {
+        "title": "Postes Académiques",
+        "description": "Professeur à l'UNIL Lausanne & EPFL Lausanne, intervenant régulier lors de sommets et conférences internationaux sur l'IA."
+      }
+    }
+  },
+  "features": {
+    "title": "Pourquoi Choisir Notre Masterclass IA ?",
+    "subtitle": "Rejoignez une expérience d'apprentissage transformative conçue pour faire de vous un praticien qualifié en IA grâce à nos fonctionnalités de programme complètes",
+    "items": {
+      "concepts": {
+        "title": "Concepts Avancés d'IA",
+        "description": "Plongez dans les réseaux neuronaux, les algorithmes d'apprentissage automatique et les technologies d'IA de pointe avec des projets pratiques.",
+        "highlight": "Apprentissage Pratique"
+      },
+      "projects": {
+        "title": "Projets Industriels",
+        "description": "Travaillez sur des projets d'IA réels d'entreprises technologiques leaders. Construisez un portfolio qui se démarque auprès des employeurs.",
+        "highlight": "Construction de Portfolio"
+      },
+      "mentorship": {
+        "title": "Mentorat Expert",
+        "description": "Obtenez des conseils personnalisés du Prof. Voss et d'une équipe de praticiens de l'industrie avec des décennies d'expérience.",
+        "highlight": "Sessions 1-à-1"
+      },
+      "career": {
+        "title": "Soutien de Carrière",
+        "description": "Recevez un coaching de carrière dédié, une préparation aux entretiens et des connexions directes avec nos partenaires recruteurs.",
+        "highlight": "Garantie d'Emploi"
+      }
+    },
+    "stats": {
+      "modules": {
+        "title": "Modules de Cours",
+        "value": "12+",
+        "description": "Programme complet"
+      },
+      "support": {
+        "title": "Sessions Live",
+        "value": "24/7",
+        "description": "Support expert"
+      },
+      "placement": {
+        "title": "Placement Professionnel",
+        "value": "92%",
+        "description": "Sous 6 mois"
+      }
+    }
+  },
+  "courses": {
+    "title": "Cours Disponibles",
+    "subtitle": "Programmes de formation en IA complets adaptés aux particuliers et aux organisations",
+    "sections": {
+      "individual": {
+        "title": "Pour les Particuliers",
+        "courses": {
+          "automation": {
+            "title": "IA pour l'Automatisation & la Productivité",
+            "description": "Maîtrisez les outils d'automatisation alimentés par l'IA pour optimiser votre flux de travail et augmenter votre productivité personnelle.",
+            "details": {
+              "duration": "6 semaines",
+              "level": "Débutant à Intermédiaire",
+              "topics": [
+                "Automatisation du flux de travail personnel",
+                "Gestion des tâches par IA",
+                "Planification intelligente",
+                "Scripts d'automatisation personnalisés"
+              ]
+            }
+          },
+          "learning": {
+            "title": "IA pour l'Apprentissage Personnel & le Développement des Compétences",
+            "description": "Utilisez l'IA pour accélérer votre processus d'apprentissage et développer de nouvelles compétences plus efficacement.",
+            "details": {
+              "duration": "8 semaines",
+              "level": "Tous niveaux",
+              "topics": [
+                "Techniques d'apprentissage améliorées par l'IA",
+                "Plans d'étude personnalisés",
+                "Stratégies de rétention des connaissances",
+                "Suivi et analyse des progrès"
+              ]
+            }
+          },
+          "content": {
+            "title": "IA pour la Création de Contenu & la Présence Digitale",
+            "description": "Créez du contenu engageant et construisez votre présence en ligne en utilisant des outils d'IA de pointe.",
+            "details": {
+              "duration": "6 semaines",
+              "level": "Intermédiaire",
+              "topics": [
+                "Assistance à l'écriture par IA",
+                "Génération d'images et de vidéos",
+                "Optimisation des médias sociaux",
+                "Automatisation de la stratégie de contenu"
+              ]
+            }
+          }
+        }
+      },
+      "organization": {
+        "title": "Pour les Organisations",
+        "courses": {
+          "workflow": {
+            "title": "IA pour l'Automatisation des Flux de Travail & la Productivité d'Équipe",
+            "description": "Transformez le flux de travail de votre organisation avec des solutions d'automatisation alimentées par l'IA.",
+            "details": {
+              "duration": "10 semaines",
+              "level": "Intermédiaire à Avancé",
+              "topics": [
+                "Cadres d'automatisation d'entreprise",
+                "Outils de collaboration d'équipe",
+                "Optimisation des processus",
+                "Stratégies d'intégration"
+              ]
+            }
+          },
+          "decision": {
+            "title": "IA pour la Prise de Décision Intelligente & l'Analyse de Données",
+            "description": "Exploitez l'IA pour analyser les données et prendre des décisions commerciales éclairées.",
+            "details": {
+              "duration": "12 semaines",
+              "level": "Avancé",
+              "topics": [
+                "Analyses prédictives",
+                "Intelligence d'affaires",
+                "Évaluation des risques",
+                "Planification stratégique"
+              ]
+            }
+          },
+          "marketing": {
+            "title": "IA pour le Marketing de Contenu & l'Engagement Client",
+            "description": "Élevez votre stratégie marketing avec du contenu alimenté par l'IA et des insights clients.",
+            "details": {
+              "duration": "8 semaines",
+              "level": "Intermédiaire",
+              "topics": [
+                "Automatisation marketing",
+                "Analyse du comportement client",
+                "Campagnes personnalisées",
+                "Optimisation du ROI"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "buttons": {
+      "showMore": "Voir Plus",
+      "showLess": "Voir Moins",
+      "learnMore": "En Savoir Plus"
+    }
+  },
+  "pricing": {
+    "title": "Plans Tarifaires Flexibles",
+    "subtitle": "Choisissez le plan parfait pour votre parcours d'apprentissage en IA",
+    "sections": {
+      "individual": {
+        "title": "Pour les Particuliers",
+        "plans": {
+          "single": {
+            "title": "Cours Unique",
+            "price": "99 CHF",
+            "description": "Parfait pour débuter avec l'apprentissage de l'IA",
+            "features": [
+              "Accès à un cours sélectionné",
+              "Accès au cours pendant 3 mois",
+              "Matériels et ressources du cours",
+              "Accès à la communauté",
+              "Certificat de fin de cours"
+            ],
+            "buttonText": "Choisir le Cours"
+          },
+          "bundle": {
+            "title": "Pack Complet",
+            "price": "249 CHF",
+            "description": "Meilleure valeur pour la maîtrise complète de l'IA",
+            "features": [
+              "Accès aux 3 cours",
+              "Accès pendant 6 mois",
+              "Tous les matériels de cours",
+              "Accès prioritaire à la communauté",
+              "Économisez 48 CHF",
+              "Support étendu"
+            ],
+            "buttonText": "Obtenir le Pack"
+          }
+        }
+      },
+      "organization": {
+        "title": "Pour les Organisations",
+        "plans": {
+          "team": {
+            "title": "Cours d'Équipe",
+            "price": "299 CHF",
+            "description": "Parfait pour les petites équipes jusqu'à 10 employés",
+            "features": [
+              "Accès pour jusqu'à 10 employés",
+              "Un cours sélectionné",
+              "Accès pendant 3 mois",
+              "Suivi des progrès de l'équipe",
+              "Support dédié"
+            ],
+            "buttonText": "Sélectionner le Cours"
+          },
+          "corporate": {
+            "title": "Pack Entreprise",
+            "price": "799 CHF",
+            "description": "Solution complète pour votre organisation",
+            "features": [
+              "Accès aux 3 cours",
+              "Jusqu'à 10 employés par cours",
+              "Accès pendant 6 mois",
+              "Économisez 98 CHF",
+              "Analyses avancées",
+              "Support prioritaire"
+            ],
+            "buttonText": "Obtenir le Pack"
+          }
+        }
+      },
+      "enterprise": {
+        "title": "Plan Entreprise",
+        "description": "Solutions personnalisées pour les grandes organisations avec des besoins spécialisés",
+        "features": [
+          "Nombre personnalisé d'employés",
+          "Options de paiement flexibles",
+          "Gestionnaire de compte dédié",
+          "Personnalisation des cours"
+        ],
+        "buttonText": "Réserver un Appel",
+        "priceNote": "Prix et plans personnalisés"
+      }
+    },
+    "labels": {
+      "popular": "Plus Populaire",
+      "perPackage": "par pack"
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Trouvez des réponses aux questions courantes sur nos programmes Masterclass IA",
+    "questions": [
+      {
+        "question": "Quels sont les prérequis pour les cours d'IA ?",
+        "answer": "Nos cours sont conçus pour s'adapter à différents niveaux de compétence. Bien que des connaissances de base en programmation soient utiles, elles ne sont pas obligatoires pour les modules d'introduction. Nous fournissons des ressources supplémentaires et un support pour vous aider à développer les compétences fondamentales nécessaires."
+      },
+      {
+        "question": "Combien de temps ai-je accès aux matériels du cours ?",
+        "answer": "Les cours individuels incluent 3 mois d'accès, tandis que les packs offrent 6 mois d'accès. Les clients entreprise peuvent organiser des périodes d'accès personnalisées. Tous les matériels de cours et les mises à jour pendant votre période d'accès sont inclus."
+      },
+      {
+        "question": "Les cours sont-ils à rythme libre ou programmés ?",
+        "answer": "Nos cours offrent une approche hybride flexible. Bien que le contenu principal soit à rythme libre, nous avons des sessions en direct hebdomadaires, des heures de bureau et des délais de projet pour maintenir l'élan et l'engagement. Vous pouvez ajuster le rythme selon votre emploi du temps tout en restant sur la bonne voie."
+      },
+      {
+        "question": "Quel type de support est disponible pendant le cours ?",
+        "answer": "Nous fournissons un support complet incluant des sessions Q&R en direct avec le Professeur Voss, des assistants pédagogiques dédiés, un forum communautaire actif et des heures de bureau hebdomadaires. Les clients entreprise reçoivent des canaux de support dédiés supplémentaires."
+      },
+      {
+        "question": "Proposez-vous une aide au placement professionnel ?",
+        "answer": "Oui ! Nous avons un taux de placement de 92% dans les 6 mois suivant la fin du cours. Notre support carrière inclut des révisions de CV, une préparation aux entretiens, des événements de networking et des connexions directes avec nos partenaires recruteurs dans l'industrie de l'IA."
+      },
+      {
+        "question": "Puis-je passer d'un cours à l'autre dans le pack ?",
+        "answer": "Absolument ! Les participants au pack peuvent librement passer entre les trois cours pendant leur période d'accès, vous permettant d'apprendre à votre rythme et de vous concentrer sur les domaines les plus pertinents pour vos objectifs."
+      }
+    ],
+    "contact": {
+      "text": "Encore des questions ?",
+      "link": "Contactez-nous"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Des questions ? Nous sommes là pour vous aider dans votre parcours d'apprentissage de l'IA",
+    "form": {
+      "fullName": {
+        "label": "Nom Complet",
+        "placeholder": "Entrez votre nom complet"
+      },
+      "phone": {
+        "label": "Numéro de Téléphone",
+        "placeholder": "Entrez votre numéro de téléphone"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Entrez votre adresse email"
+      },
+      "inquiryType": {
+        "label": "Type de Demande",
+        "placeholder": "Sélectionnez une option",
+        "options": {
+          "course": "Question sur les cours",
+          "enrollment": "Aide à l'inscription",
+          "general": "Demande générale"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Entrez votre message"
+      },
+      "submit": "Envoyer le Message"
+    },
+    "success": {
+      "title": "Merci !",
+      "message": "Votre message a été reçu. Nous vous répondrons bientôt."
+    }
+  },
+  "footer": {
+    "description": "Former la prochaine génération de praticiens en IA grâce à une éducation dirigée par des experts.",
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "links": {
+        "courses": "Cours",
+        "pricing": "Tarifs",
+        "faq": "FAQ",
+        "contact": "Contact"
+      }
+    },
+    "stayConnected": {
+      "title": "Restez Connecté",
+      "description": "Suivez-nous pour les actualités de l'industrie IA et les nouvelles des cours"
+    },
+    "terms": {
+      "title": "Termes & Accords",
+      "refund": {
+        "title": "Politique de Remboursement",
+        "description": "Remboursement intégral disponible dans les 7 jours suivant l'achat, sans questions."
+      },
+      "privacy": {
+        "title": "Confidentialité des Données",
+        "description": "Nous protégeons vos données et les matériels de cours contre la distribution non autorisée."
+      }
+    },
+    "copyright": "© 2024 AI Masterclass. Tous droits réservés.",
+    "policies": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "cookies": "Politique des Cookies"
+    }
+  }
+}

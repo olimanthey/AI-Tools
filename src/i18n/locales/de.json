@@ -1,0 +1,36 @@
+{
+  "navigation": {
+    "about": "Über mich",
+    "courses": "Kurse",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "viewCourses": "Kurse ansehen"
+  },
+  "hero": {
+    "title": "Meistern Sie die Zukunft der",
+    "subtitle": "Künstlichen Intelligenz",
+    "description": "Nehmen Sie am umfassenden KI-Masterclass von Professor Elias Voss teil und transformieren Sie Ihre Karriere. Lernen Sie vom führenden KI-Forscher und Ausbilder der Schweiz mit praktischer Erfahrung.",
+    "cta": {
+      "primary": "Kurse ansehen",
+      "secondary": "Mehr erfahren"
+    },
+    "stats": {
+      "successRate": {
+        "title": "Erfolgsquote",
+        "value": "98%",
+        "description": "Karrierewechsel"
+      },
+      "students": {
+        "title": "Studenten",
+        "value": "500+",
+        "description": "Weltweit"
+      },
+      "experience": {
+        "title": "Industrie",
+        "value": "15+",
+        "description": "Jahre Erfahrung"
+      }
+    }
+  }
+}

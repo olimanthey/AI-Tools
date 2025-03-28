@@ -1,0 +1,397 @@
+{
+  "navigation": {
+    "about": "About me",
+    "courses": "Courses",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "viewCourses": "View Courses"
+  },
+  "hero": {
+    "title": "Master the Future of",
+    "subtitle": "Artificial Intelligence",
+    "description": "Join Professor Elias Voss's comprehensive AI Masterclass and transform your career. Learn from Switzerland's leading AI researcher and educator with real-world experience.",
+    "cta": {
+      "primary": "View Courses",
+      "secondary": "Learn More"
+    },
+    "stats": {
+      "successRate": {
+        "title": "Success Rate",
+        "value": "98%",
+        "description": "Career transition"
+      },
+      "students": {
+        "title": "Students",
+        "value": "500+",
+        "description": "Worldwide"
+      },
+      "experience": {
+        "title": "Industry",
+        "value": "15+",
+        "description": "Years experience"
+      }
+    }
+  },
+  "about": {
+    "title": "Meet Professor Elias Voss",
+    "subtitle": "Bridging the gap between theoretical AI and real-world applications through expert education and industry experience",
+    "experience": "Industry Experience",
+    "years": "15+ Years",
+    "sections": {
+      "academic": {
+        "title": "Academic Excellence",
+        "description": "Ph.D. in Artificial Intelligence from EPFL Lausanne, with a focus on machine learning and neural networks."
+      },
+      "industry": {
+        "title": "Industry Impact",
+        "description": "Former Senior AI Researcher and Consultant, helping businesses implement AI solutions across various sectors."
+      },
+      "teaching": {
+        "title": "Teaching Philosophy",
+        "description": "Combines theoretical foundations with practical applications, ensuring students gain real-world AI expertise."
+      },
+      "positions": {
+        "title": "Academic Positions",
+        "description": "Lecturer at UNIL Lausanne & EPFL Lausanne, regular speaker at international AI summits and conferences."
+      }
+    }
+  },
+  "features": {
+    "title": "Why Choose Our AI Masterclass?",
+    "subtitle": "Join a transformative learning experience designed to turn you into a skilled AI practitioner through our comprehensive program features",
+    "items": {
+      "concepts": {
+        "title": "Advanced AI Concepts",
+        "description": "Deep dive into neural networks, machine learning algorithms, and cutting-edge AI technologies with hands-on projects.",
+        "highlight": "Practical Learning"
+      },
+      "projects": {
+        "title": "Industry Projects",
+        "description": "Work on real-world AI projects from leading tech companies. Build a portfolio that stands out to employers.",
+        "highlight": "Portfolio Building"
+      },
+      "mentorship": {
+        "title": "Expert Mentorship",
+        "description": "Get personalized guidance from Prof. Voss and a team of industry practitioners with decades of experience.",
+        "highlight": "1-on-1 Sessions"
+      },
+      "career": {
+        "title": "Career Support",
+        "description": "Receive dedicated career coaching, interview preparation, and direct connections to our hiring partners.",
+        "highlight": "Job Guarantee"
+      }
+    },
+    "stats": {
+      "modules": {
+        "title": "Course Modules",
+        "value": "12+",
+        "description": "Comprehensive curriculum"
+      },
+      "support": {
+        "title": "Live Sessions",
+        "value": "24/7",
+        "description": "Expert support"
+      },
+      "placement": {
+        "title": "Job Placement",
+        "value": "92%",
+        "description": "Within 6 months"
+      }
+    }
+  },
+  "courses": {
+    "title": "Available Courses",
+    "subtitle": "Comprehensive AI training programs tailored for both individuals and organizations",
+    "sections": {
+      "individual": {
+        "title": "For Individuals",
+        "courses": {
+          "automation": {
+            "title": "AI for Automation & Productivity",
+            "description": "Master AI-powered automation tools to streamline your workflow and boost personal productivity.",
+            "details": {
+              "duration": "6 weeks",
+              "level": "Beginner to Intermediate",
+              "topics": [
+                "Personal workflow automation",
+                "AI-powered task management",
+                "Smart scheduling and planning",
+                "Custom automation scripts"
+              ]
+            }
+          },
+          "learning": {
+            "title": "AI for Personal Learning & Skills Building",
+            "description": "Leverage AI to accelerate your learning process and develop new skills more effectively.",
+            "details": {
+              "duration": "8 weeks",
+              "level": "All Levels",
+              "topics": [
+                "AI-enhanced learning techniques",
+                "Personalized study plans",
+                "Knowledge retention strategies",
+                "Progress tracking and analytics"
+              ]
+            }
+          },
+          "content": {
+            "title": "AI for Content Creation & Digital Presence",
+            "description": "Create engaging content and build your online presence using cutting-edge AI tools.",
+            "details": {
+              "duration": "6 weeks",
+              "level": "Intermediate",
+              "topics": [
+                "AI writing assistance",
+                "Image and video generation",
+                "Social media optimization",
+                "Content strategy automation"
+              ]
+            }
+          }
+        }
+      },
+      "organization": {
+        "title": "For Organizations",
+        "courses": {
+          "workflow": {
+            "title": "AI for Workflow Automation & Team Productivity",
+            "description": "Transform your organization's workflow with AI-powered automation solutions.",
+            "details": {
+              "duration": "10 weeks",
+              "level": "Intermediate to Advanced",
+              "topics": [
+                "Enterprise automation frameworks",
+                "Team collaboration tools",
+                "Process optimization",
+                "Integration strategies"
+              ]
+            }
+          },
+          "decision": {
+            "title": "AI for Smarter Decision-Making & Data Insight",
+            "description": "Harness AI to analyze data and make informed business decisions.",
+            "details": {
+              "duration": "12 weeks",
+              "level": "Advanced",
+              "topics": [
+                "Predictive analytics",
+                "Business intelligence",
+                "Risk assessment",
+                "Strategic planning"
+              ]
+            }
+          },
+          "marketing": {
+            "title": "AI for Content Marketing & Customer Engagement",
+            "description": "Elevate your marketing strategy with AI-powered content and customer insights.",
+            "details": {
+              "duration": "8 weeks",
+              "level": "Intermediate",
+              "topics": [
+                "Marketing automation",
+                "Customer behavior analysis",
+                "Personalized campaigns",
+                "ROI optimization"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "buttons": {
+      "showMore": "Show More",
+      "showLess": "Show Less",
+      "learnMore": "Learn More"
+    }
+  },
+  "pricing": {
+    "title": "Flexible Pricing Plans",
+    "subtitle": "Choose the perfect plan for your AI learning journey",
+    "sections": {
+      "individual": {
+        "title": "For Individuals",
+        "plans": {
+          "single": {
+            "title": "Single Course",
+            "price": "99 CHF",
+            "description": "Perfect for getting started with AI learning",
+            "features": [
+              "Access to one selected course",
+              "3 months course access",
+              "Course materials and resources",
+              "Community access",
+              "Certificate of completion"
+            ],
+            "buttonText": "Choose Course"
+          },
+          "bundle": {
+            "title": "Complete Bundle",
+            "price": "249 CHF",
+            "description": "Best value for full AI mastery",
+            "features": [
+              "Access to all 3 courses",
+              "6 months course access",
+              "All course materials",
+              "Priority community access",
+              "Save 48 CHF",
+              "Extended support"
+            ],
+            "buttonText": "Get Bundle"
+          }
+        }
+      },
+      "organization": {
+        "title": "For Organizations",
+        "plans": {
+          "team": {
+            "title": "Team Course",
+            "price": "299 CHF",
+            "description": "Perfect for small teams up to 10 employees",
+            "features": [
+              "Access for up to 10 employees",
+              "One selected course",
+              "3 months course access",
+              "Team progress tracking",
+              "Dedicated support"
+            ],
+            "buttonText": "Select Course"
+          },
+          "corporate": {
+            "title": "Corporate Package",
+            "price": "799 CHF",
+            "description": "Complete solution for your organization",
+            "features": [
+              "Access to all 3 courses",
+              "Up to 10 employees per course",
+              "6 months course access",
+              "Save 98 CHF",
+              "Advanced analytics",
+              "Priority support"
+            ],
+            "buttonText": "Get Package"
+          }
+        }
+      },
+      "enterprise": {
+        "title": "Enterprise Plan",
+        "description": "Custom solutions for large organizations with specialized needs",
+        "features": [
+          "Custom number of employees",
+          "Flexible installment options",
+          "Dedicated account manager",
+          "Custom course customization"
+        ],
+        "buttonText": "Book a Call",
+        "priceNote": "Custom pricing & plans"
+      }
+    },
+    "labels": {
+      "popular": "Most Popular",
+      "perPackage": "per package"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our AI Masterclass programs",
+    "questions": [
+      {
+        "question": "What prerequisites do I need for the AI courses?",
+        "answer": "Our courses are designed to accommodate various skill levels. While basic programming knowledge is helpful, it's not mandatory for the introductory modules. We provide additional resources and support to help you build any necessary foundational skills."
+      },
+      {
+        "question": "How long do I have access to the course materials?",
+        "answer": "Individual courses include 3 months of access, while bundle packages provide 6 months of access. Enterprise clients can arrange custom access periods. All course materials and updates during your access period are included."
+      },
+      {
+        "question": "Are the courses self-paced or scheduled?",
+        "answer": "Our courses offer a flexible hybrid approach. While the core content is self-paced, we have weekly live sessions, office hours, and project deadlines to help maintain momentum and engagement. You can adjust the pace to fit your schedule while staying on track."
+      },
+      {
+        "question": "What kind of support is available during the course?",
+        "answer": "We provide comprehensive support including live Q&A sessions with Professor Voss, dedicated teaching assistants, an active community forum, and weekly office hours. Enterprise clients receive additional dedicated support channels."
+      },
+      {
+        "question": "Do you offer job placement assistance?",
+        "answer": "Yes! We have a 92% job placement rate within 6 months of course completion. Our career support includes resume reviews, interview preparation, networking events, and direct connections to our hiring partners in the AI industry."
+      },
+      {
+        "question": "Can I switch between courses in the bundle package?",
+        "answer": "Absolutely! Bundle package participants can freely move between all three courses during their access period, allowing you to learn at your own pace and focus on the areas most relevant to your goals."
+      }
+    ],
+    "contact": {
+      "text": "Still have questions?",
+      "link": "Contact us"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We're here to help you on your AI learning journey",
+    "form": {
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email address"
+      },
+      "inquiryType": {
+        "label": "Type of Inquiry",
+        "placeholder": "Select an option",
+        "options": {
+          "course": "Course-related question",
+          "enrollment": "Enrollment assistance",
+          "general": "General inquiry"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter your message"
+      },
+      "submit": "Send Message"
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "Your message has been received. We'll get back to you shortly."
+    }
+  },
+  "footer": {
+    "description": "Empowering the next generation of AI practitioners through expert-led education.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "links": {
+        "courses": "Courses",
+        "pricing": "Pricing",
+        "faq": "FAQ",
+        "contact": "Contact"
+      }
+    },
+    "stayConnected": {
+      "title": "Stay Connected",
+      "description": "Follow us for AI industry updates and course news"
+    },
+    "terms": {
+      "title": "Terms & Agreements",
+      "refund": {
+        "title": "Refund Policy",
+        "description": "Full refund available within 7 days of purchase, no questions asked."
+      },
+      "privacy": {
+        "title": "Data Privacy",
+        "description": "We protect your data and course materials from unauthorized distribution."
+      }
+    },
+    "copyright": "© 2024 AI Masterclass. All rights reserved.",
+    "policies": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  }
+}
